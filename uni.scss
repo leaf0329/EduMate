@@ -1,0 +1,42 @@
+/* EduMate 全局样式变量 - 暖色黏土风 (Warm Claymorphic) */
+$edumate-primary: #4338CA;
+$edumate-primary-light: #6366F1;
+$edumate-primary-dark: #3730A3;
+$edumate-primary-soft: #EEF1FF;
+$edumate-gradient: linear-gradient(145deg, #4338CA, #6366F1);
+$edumate-gradient-warm: linear-gradient(145deg, #F59E0B, #F97316);
+$edumate-success: #10B981;
+$edumate-success-soft: #ECFDF5;
+$edumate-warning: #F59E0B;
+$edumate-warning-soft: #FFFBEB;
+$edumate-danger: #EF4444;
+$edumate-danger-soft: #FEF2F2;
+$edumate-info: #8B5CF6;
+$edumate-info-soft: #F5F3FF;
+$edumate-bg: #F8F6F0;
+$edumate-bg-alt: #F0EDE6;
+$edumate-card: #FFFDF8;
+$edumate-card-alt: #FAF7F0;
+$edumate-text-primary: #2D264B;
+$edumate-text-secondary: #7C758B;
+$edumate-text-hint: #B0A9BE;
+$edumate-border: #E8E3D8;
+$edumate-shadow-sm: 0 4rpx 12rpx rgba(45, 38, 75, 0.06);
+$edumate-shadow: 0 8rpx 24rpx rgba(45, 38, 75, 0.08);
+$edumate-shadow-lg: 0 12rpx 36rpx rgba(45, 38, 75, 0.12);
+$edumate-shadow-inner: inset 0 -2rpx 4rpx rgba(255, 255, 255, 0.6), inset 0 2rpx 4rpx rgba(45, 38, 75, 0.04);
+
+$font-sm: 24rpx;
+$font-base: 28rpx;
+$font-md: 30rpx;
+$font-lg: 32rpx;
+$font-xl: 36rpx;
+$font-xxl: 44rpx;
+
+$radius-sm: 8rpx;
+$radius-base: 12rpx;
+$radius-lg: 16rpx;
+$radius-xl: 20rpx;
+$radius-2xl: 28rpx;
+$radius-round: 40rpx;
+$radius-clay: 22rpx;

@@ -1,0 +1,115 @@
+{
+  "pages": [
+    {
+      "path": "pages/login/login",
+      "style": {
+        "navigationBarTitleText": "登录",
+        "navigationBarBackgroundColor": "#3730A3",
+        "navigationBarTextStyle": "white"
+      }
+    },
+    {
+      "path": "pages/home/home",
+      "style": {
+        "navigationBarTitleText": "EduMate",
+        "navigationBarBackgroundColor": "#3730A3",
+        "navigationBarTextStyle": "white"
+      }
+    },
+    {
+      "path": "pages/plan/plan",
+      "style": {
+        "navigationBarTitleText": "学习计划",
+        "navigationBarBackgroundColor": "#3730A3",
+        "navigationBarTextStyle": "white"
+      }
+    },
+    {
+      "path": "pages/notes/notes",
+      "style": {
+        "navigationBarTitleText": "学习笔记",
+        "navigationBarBackgroundColor": "#3730A3",
+        "navigationBarTextStyle": "white"
+      }
+    },
+    {
+      "path": "pages/notes/detail",
+      "style": {
+        "navigationBarTitleText": "笔记详情",
+        "navigationBarBackgroundColor": "#3730A3",
+        "navigationBarTextStyle": "white"
+      }
+    },
+    {
+      "path": "pages/ai/ai",
+      "style": {
+        "navigationBarTitleText": "AI 学习助手",
+        "navigationBarBackgroundColor": "#3730A3",
+        "navigationBarTextStyle": "white"
+      }
+    },
+    {
+      "path": "pages/stats/stats",
+      "style": {
+        "navigationBarTitleText": "学习统计",
+        "navigationBarBackgroundColor": "#3730A3",
+        "navigationBarTextStyle": "white"
+      }
+    },
+    {
+      "path": "pages/profile/profile",
+      "style": {
+        "navigationBarTitleText": "个人中心",
+        "navigationBarBackgroundColor": "#3730A3",
+        "navigationBarTextStyle": "white"
+      }
+    },
+    {
+      "path": "pages/profile/about",
+      "style": {
+        "navigationBarTitleText": "关于系统",
+        "navigationBarBackgroundColor": "#3730A3",
+        "navigationBarTextStyle": "white"
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "EduMate",
+    "navigationBarBackgroundColor": "#3730A3",
+    "backgroundColor": "#F8F6F0"
+  },
+  "tabBar": {
+    "color": "#B0A9BE",
+    "selectedColor": "#4338CA",
+    "backgroundColor": "#FFFDF8",
+    "borderStyle": "white",
+    "list": [
+      {
+        "pagePath": "pages/home/home",
+        "iconPath": "static/tab/home.png",
+        "selectedIconPath": "static/tab/home-active.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/plan/plan",
+        "iconPath": "static/tab/plan.png",
+        "selectedIconPath": "static/tab/plan-active.png",
+        "text": "计划"
+      },
+      {
+        "pagePath": "pages/ai/ai",
+        "iconPath": "static/tab/ai.png",
+        "selectedIconPath": "static/tab/ai-active.png",
+        "text": "AI助手"
+      },
+      {
+        "pagePath": "pages/profile/profile",
+        "iconPath": "static/tab/profile.png",
+        "selectedIconPath": "static/tab/profile-active.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "uniIdRouter": {}
+}
