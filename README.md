@@ -36,4 +36,4 @@ static/ # 静态资源
 
 ## 关于api配置
 
-可在utils/config.js中更改api供应商与api密钥
+可在utils/config.js中更改api供应商与api密钥，当前未配置
